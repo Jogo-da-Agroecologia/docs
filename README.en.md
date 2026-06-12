@@ -10,7 +10,7 @@
 
 *From agroecological transition to permanent coordination — playing to regenerate life.*
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-1D9E75?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-1D9E75?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Status](https://img.shields.io/badge/Status-In_development-8B4513?style=flat-square)]()
 [![Pilot Rounds](https://img.shields.io/badge/Pilot_Rounds-3_planned-2E8B57?style=flat-square)]()
 [![Social Technology](https://img.shields.io/badge/Social-Technology-6B8E23?style=flat-square)]()
@@ -142,8 +142,7 @@ Jogo da Agroecologia emerges from situated knowledge, built from direct experien
 
 ## 📄 License
 
-This project is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) — use, adapt and share, as long as with attribution and under the same license.
-
+This project is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) — use, adapt, and share, as long as you provide attribution, for non-commercial purposes, and under the same license.
 ---
 
 <div align="center">

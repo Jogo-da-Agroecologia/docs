@@ -64,15 +64,15 @@ A **Transição Agroecológica** não se limita a mudanças técnicas nos sistem
 
 | Componente | Descrição |
 |---|---|
-| 🎮 Gamificação | Sistema de metas, pegada ecológica e recompensas |
+| 🎮 Gamificação | Escolha de metas, pegada ecológica e recompensas |
 | 📚 Trilhas de Aprendizagem | Educação Ambiental e Educação Emocional |
 | 🏪 Mercado Ecológico | Economia local, solidária e agroecológica |
 | 🤝 Assessoria | Suporte pedagógico da equipe do Jogo |
-| 🏆 Sistema de Prêmios | Reconhecimento de práticas regenerativas |
+| 🏆 Sistema de Prêmios | Reconhecimento de práticas regenerativas através de tokens para usar no Mercado Ecológico |
 
 ---
 
-## 🚀 Roadmap
+## 🚀 Linha do Tempo
 
 ```
 2014–2016   Criação do jogo
@@ -81,7 +81,7 @@ A **Transição Agroecológica** não se limita a mudanças técnicas nos sistem
 2024        1ª Rodada Piloto · Integração ao Protocolo Cibercultural RERE
 2025        Participação no Programa Regen Rio · Greenpill Brasil
 2026        2ª Rodada Piloto · 3ª Rodada Piloto (prevista julho/2026)
-2029        Meta: 1 milhão de pessoas com hábitos regenerativos
+
 ```
 
 ---

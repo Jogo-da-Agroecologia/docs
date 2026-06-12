@@ -10,7 +10,7 @@
 
 *Da transição agroecológica à coordenação permanente — jogando para regenerar a vida.*
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-1D9E75?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-1D9E75?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-8B4513?style=flat-square)]()
 [![Rodadas Piloto](https://img.shields.io/badge/Rodadas_Piloto-3_previstas-2E8B57?style=flat-square)]()
 [![Tecnologia Social](https://img.shields.io/badge/Tecnologia-Social-6B8E23?style=flat-square)]()
@@ -142,7 +142,7 @@ O Jogo da Agroecologia emerge de um saber situado, construído a partir da vivê
 
 ## 📄 Licença
 
-Este projeto está licenciado sob [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) — use, adapte e compartilhe, desde que com atribuição e sob a mesma licença.
+Este projeto está licenciado sob [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) — use, adapte e compartilhe, desde que com atribuição, para fins não comerciais e sob a mesma licença.
 
 ---
 

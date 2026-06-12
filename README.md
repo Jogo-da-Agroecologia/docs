@@ -2,7 +2,7 @@
 
 🇧🇷 Português | [🇺🇸 English](./README.en.md)
 
-<img src="./assets/ja_banner.jpg" alt="Jogo da Agroecologia — nome escrito na areia" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jogo-da-Agroecologia/docs/main/assets/ja_banner.png" alt="Jogo da Agroecologia — nome escrito na areia" width="100%"/>
 
 # 🌱 Jogo da Agroecologia
 
